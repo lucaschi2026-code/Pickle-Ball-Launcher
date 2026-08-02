@@ -26,7 +26,6 @@ The motor shafts used to rotate the scooter wheels were only 16mm in length each
 - All remaining teeth now lie on one pitch circle concentric with the pivot, so center distance to the pinion stays constant across the entire sweep.
 
 https://github.com/user-attachments/assets/a06b840f-46ca-4a9e-8af4-df5ab2cb8a56
-<video src="[https://github.com](https://github.com/user-attachments/assets/a06b840f-46ca-4a9e-8af4-df5ab2cb8a56)" title="Your Custom Video Title Here" controls></video>
 
 
 
