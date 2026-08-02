@@ -26,6 +26,7 @@ Video explanation:
 - All remaining teeth now lie on one pitch circle concentric with the pivot, so center distance to the pinion stays constant across the entire sweep.
 
 https://github.com/user-attachments/assets/aec71726-0927-466b-a4a0-04b81f9691da
+
 https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
 
 
