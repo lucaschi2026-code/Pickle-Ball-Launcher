@@ -8,7 +8,6 @@ The motor shafts used to rotate the scooter wheels were only 16mm in length each
 ### Segment gear teeth not concentric with the pivot axis
 
 Video explanation:
-
 &nbsp;
 
 **Problem**
