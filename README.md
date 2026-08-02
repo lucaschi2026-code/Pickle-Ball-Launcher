@@ -7,8 +7,8 @@ The motor shafts used to rotate the scooter wheels were only 16mm in length each
 \
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/c17f47db-585d-467f-87f6-56ed3d80a6e9" width="200"/><br><sub>Front view</sub></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/27272106-f529-470b-b4ff-c9c546e4dd82" width="200"/><br><sub>Back view</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/c17f47db-585d-467f-87f6-56ed3d80a6e9" width="100"/><br><sub>Front view</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/27272106-f529-470b-b4ff-c9c546e4dd82" width="100"/><br><sub>Back view</sub></td>
   </tr>
 </table>
 
