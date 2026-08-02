@@ -4,7 +4,7 @@ Check out my video series here: https://www.youtube.com/@lchi_builds
 
 # Challenges
 The motor shafts used to rotate the scooter wheels were only 16mm in length each. This meant if I made a full front mount utilizing the screw holes in the front on the motor, the pickleball wouldn't fit.
-
+\
 <table>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/c17f47db-585d-467f-87f6-56ed3d80a6e9" width="400"/><br><sub>Front view</sub></td>
