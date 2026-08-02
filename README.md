@@ -6,8 +6,9 @@ Check out my video series here: https://www.youtube.com/@lchi_builds
 The motor shafts used to rotate the scooter wheels were only 16mm in length each. This meant if I made a full front mount utilizing the screw holes in the front on the motor, the pickleball wouldn't fit.\
 
 ### Segment gear teeth not concentric with the pivot axis
-Video explanation: 
 
+Video explanation:
+\
 **Problem**
 
 - The spur pinion could not drive the segment gear through its full travel.
