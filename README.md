@@ -3,8 +3,8 @@ A pickleball launcher with horizontal and vertical movement, varying distance, a
 Check out my video series here: https://www.youtube.com/@lchi_builds
 
 # Challenges
-The motor shafts used to rotate the scooter wheels were only 16mm in length each. This meant if I made a full front mount utilizing the screw holes in the front on the motor, the pickleball wouldn't fit.
-\
+The motor shafts used to rotate the scooter wheels were only 16mm in length each. This meant if I made a full front mount utilizing the screw holes in the front on the motor only, the pickleball wouldn't fit.
+
 <table>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/27272106-f529-470b-b4ff-c9c546e4dd82" width="200"/><br><sub>Problem</sub></td>
