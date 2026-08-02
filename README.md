@@ -10,6 +10,7 @@ The motor shafts used to rotate the scooter wheels were only 16mm in length each
 Video explanation:
 
 &nbsp;
+
 **Problem**
 
 - The spur pinion could not drive the segment gear through its full travel.
