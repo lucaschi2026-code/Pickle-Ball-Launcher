@@ -28,7 +28,7 @@ Check out my video series here: https://www.youtube.com/@lchi_builds
 
 ### Segment gear teeth not concentric with the pivot axis
 
-Video explanation:
+Video explanation: [YT short](https://youtube.com/shorts/Wz2A-TTkKP4?si=VPnpqFrX6oq3ApiZ)
 
 **Problem**
 
