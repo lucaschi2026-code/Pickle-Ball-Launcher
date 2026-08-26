@@ -1,5 +1,5 @@
 Qty,Category,Item,Notes,Link
-1,Electronics,ESP32 Dev Board,WROOM-32,"=HYPERLINK("https://www.amazon.ca/ESP-WROOM-32-NodeMCU-Bluetooth-Development-Microcontroller/dp/B0CHBMFJBQ/ref=asc_df_B0CHBMFJBQ?mcid=56f0e01e9a3a3b33a2be90f7f3545453&tag=googleshopc0c-20&linkCode=df0&hvadid=706724917350&hvpos=&hvnetw=g&hvrand=5678990280030416875&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000784&hvtargid=pla-2296980982282&hvocijid=5678990280030416875-B0CHBMFJBQ-&hvexpln=0&gad_source=1&th=1"",""Buy"")"
+1,Electronics,ESP32 Dev Board,WROOM-32,https://www.amazon.ca/ESP-WROOM-32-NodeMCU-Bluetooth-Development-Microcontroller/dp/B0CHBMFJBQ/ref=asc_df_B0CHBMFJBQ?mcid=56f0e01e9a3a3b33a2be90f7f3545453&tag=googleshopc0c-20&linkCode=df0&hvadid=706724917350&hvpos=&hvnetw=g&hvrand=5678990280030416875&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000784&hvtargid=pla-2296980982282&hvocijid=5678990280030416875-B0CHBMFJBQ-&hvexpln=0&gad_source=1&th=1
 1,Electronics,ESP32 Breakout Board,,
 2,Electronics,BTS7960 DC Motor Driver,For the 775 motors,
 2,Electronics,TMC2209 Motor Driver,V2.0 stepper drivers,
