@@ -67,12 +67,11 @@ https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/2ee49d61-6207-4e40-b8a6-192d4ce8fe5e" width="200"/><br><sub>Problem</sub></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/1d6f63dc-018e-478e-8d47-2537d4a96baa" width="200"/><br><sub>Solution</sub></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/f936857b-2f46-4ab9-b7a9-50f561dcf009" width="200"/><br><sub>Solution</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/f936857b-2f46-4ab9-b7a9-50f561dcf009" width="200"/><br><sub>Back View</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/1d6f63dc-018e-478e-8d47-2537d4a96baa" width="200"/><br><sub>Front View</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/2ee49d61-6207-4e40-b8a6-192d4ce8fe5e" width="200"/><br><sub>Side View</sub></td>
   </tr>
 </table>
-<img width="400" alt="IMG_4455" src="https://github.com/user-attachments/assets/f936857b-2f46-4ab9-b7a9-50f561dcf009" /><img width="400" alt="IMG_4454" src="https://github.com/user-attachments/assets/2ee49d61-6207-4e40-b8a6-192d4ce8fe5e" /><img width="400" alt="IMG_4453" src="https://github.com/user-attachments/assets/1d6f63dc-018e-478e-8d47-2537d4a96baa" />
 
 
 
