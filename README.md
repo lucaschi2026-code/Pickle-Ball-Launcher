@@ -52,6 +52,20 @@ https://github.com/user-attachments/assets/aec71726-0927-466b-a4a0-04b81f9691da
 
 https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
 
+### Motor Arm Enclosure Walls Too High
+
+**Problem**
+- Stepper motor would not seat into the motor arm enclosure
+- The walls on the back side of the enclosure were too high and blocked the motor from dropping in
+
+**Cause**
+- The enclosure was modeled around NEMA 17 stepper motor, but I did not consider how I was going to get the motor in the enclosure in the first place
+
+**Fix**
+- Melted the back walls off with a soldering iron and removed them
+- Motor drops in cleanly now — the four M3 bolts through the front wall plus the rest pads hold it securely, so the back walls turned out to be unnecessary
+
+<img width="400" alt="IMG_4455" src="https://github.com/user-attachments/assets/f936857b-2f46-4ab9-b7a9-50f561dcf009" /><img width="400" alt="IMG_4454" src="https://github.com/user-attachments/assets/2ee49d61-6207-4e40-b8a6-192d4ce8fe5e" /><img width="400" alt="IMG_4453" src="https://github.com/user-attachments/assets/1d6f63dc-018e-478e-8d47-2537d4a96baa" />
 
 
 
