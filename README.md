@@ -70,6 +70,7 @@ https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
     <td align="center"><img src="https://github.com/user-attachments/assets/f936857b-2f46-4ab9-b7a9-50f561dcf009" width="200"/><br><sub>Back View</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/1d6f63dc-018e-478e-8d47-2537d4a96baa" width="200"/><br><sub>Front View</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/2ee49d61-6207-4e40-b8a6-192d4ce8fe5e" width="200"/><br><sub>Side View</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/bc4cdb7b-24c7-493a-84d5-169191941115" width="200"/><br><sub>Solution</sub></td>
   </tr>
 </table>
 
