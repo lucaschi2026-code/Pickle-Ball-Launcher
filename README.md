@@ -63,6 +63,7 @@ https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
 
 **Fix**
 - Melted the back walls off with a soldering iron and removed them
+- Fixed 3D model
 - Motor drops in cleanly now — the four M3 bolts through the front wall plus the rest pads hold it securely, so the back walls turned out to be unnecessary
 
 <table>
