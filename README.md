@@ -111,10 +111,9 @@ Things that didn't work, why, and what I'd change.
 **Why**
 
 - The lazy susan is a printed roller thrust bearing — rollers in a flat channel. It holds weight fine, but nothing holds the top ring *centred*.
-- Design clearances: 0.7 mm vertical, 1.5 mm end play, and no radial location at all (nothing stops the rings sliding sideways).
+- Too much clearance which allows the top ring to shift horizontally in all directions
 - Unbalanced spinning launcher wheels produce a force that grows with the *square* of speed — double the RPM, four times the shaking. More than enough to rattle the top ring through all that clearance.
 - Printed rollers aren't perfectly round or all the same diameter, so they skew in the channel and chatter instead of rolling.
-- The keeper shoes limit sideways drift to ~0.4 mm — a patch, not a fix.
 
 **Improvements**
 
