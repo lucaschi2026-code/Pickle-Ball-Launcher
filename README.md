@@ -184,7 +184,7 @@ This is the one that actually stopped the project working, so it gets its own se
 
 **What happened**
 
-- The perfboard circuit ended up strapped to the outside of the frame — messy, bulky, exposed. Wiring ran wherever it could reach.
+- The circuit ended up strapped to the outside of the frame — messy, bulky, exposed. Wiring ran wherever it could reach.
 
 **Why**
 
@@ -194,7 +194,7 @@ This is the one that actually stopped the project working, so it gets its own se
 **Improvements**
 
 - Reserve the electronics bay in CAD at the same time as the mechanics — define the box volume and mounting bosses before the frame is finalised.
-- Move from perfboard to a custom PCB: the BTS7960, TMC2209 and ESP32 modules become sockets on one board. No jumper wires, far smaller, far more reliable.
+- Custom PCB: the BTS7960, TMC2209 and ESP32 modules become sockets on one board. No jumper wires, far smaller, far more reliable.
 
 
 
