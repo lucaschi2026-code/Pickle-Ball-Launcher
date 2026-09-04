@@ -1,4 +1,4 @@
-## Gallery
+# Gallery
 
 ## First partial assembly of the frame + temp wires
 <img width="5712" height="4284" alt="IMG_4047" src="https://github.com/user-attachments/assets/c020de7a-e2ad-464a-8466-ca8a609e695a" />
