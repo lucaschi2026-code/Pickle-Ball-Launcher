@@ -3,7 +3,7 @@ Scooter Wheels: https://grabcad.com/library/100mm-scooter-wheel-with-ball-bearin
 Bearings: https://grabcad.com/library/608-bearing-5
 
 # Final Assembly
-Does not include improved segment gear
+Does not include [improved segment gear](/improved_segment_gear)
 <img width="370" height="412" alt="image" src="https://github.com/user-attachments/assets/9ddaea8d-e0dd-45a8-aa17-42bfdcc5c4dc" />
 
 
