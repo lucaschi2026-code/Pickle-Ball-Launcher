@@ -1,7 +1,7 @@
 # Pickle-Ball-Launcher
 A pickleball launcher with horizontal and vertical movement, varying distance, and varying spin. **Project was unsuccessful. Read more below.**
 
-[🎥Video series🎥]([https://www.youtube.com/@lchi_builds](https://www.youtube.com/watch?v=JF2lp_7c97A&list=PLT0-RLjuO7Rs&pp=sAgC))
+[🎥Video series🎥](https://www.youtube.com/watch?v=JF2lp_7c97A&list=PLT0-RLjuO7Rs&pp=sAgC)
 
 [🎥Overview Video🎥](https://youtu.be/JF2lp_7c97A?si=ikQjlXj1Om9Uvilw)
 
