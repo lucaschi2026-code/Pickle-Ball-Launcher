@@ -133,9 +133,8 @@ This is the one that actually stopped the project working, so it gets its own se
 
 ### What happened
 
-- At low wheel speed the ball launched, but weakly.
+- At low wheel speed the ball launched just fine.
 - Turning the speed up made it *worse* — the ball dribbled out of the wheels instead of flying.
-- More speed never added range.
 
 ### How a wheel launcher is supposed to work
 
@@ -147,21 +146,11 @@ This is the one that actually stopped the project working, so it gets its own se
 
 - **Tiny contact patch.** Scooter tread is narrow and rounded (~24–30 mm wide). A pickleball is a 74 mm sphere. Round pressed on round is close to a single *point*, and friction force depends on how much surface is touching.
 - **A pickleball won't squash — this is the core of it.** A tennis ball flattens and wraps around the wheel, giving a big patch and long contact; that's why narrow wheels work in tennis machines. A pickleball is hard, hollow, perforated plastic. Press harder and you just crack it. All the give has to come from the wheel, and scooter wheels have almost none.
-- **Contact lasts only a few milliseconds.** Speed comes from force × time. Small force × short time = slow ball. And faster wheels make that window *shorter*.
-- **Both surfaces are slippery.** Smooth hard plastic on smooth polyurethane, and the holes in the ball break up what little patch there is.
-- **The wheels bogged down on impact.** Light wheels store little rotational energy, and DC motor torque sags under a sudden current spike — so the wheel slows at the exact moment it should be gripping.
 - **Why more speed made it worse:** a faster launch needs more force over less time. The friction *needed* goes up, the friction *available* stays the same, so more of the wheel speed is lost to slip.
-
-### The motor probably wasn't the problem
-
-- A pickleball weighs ~24 g. To reach 20 m/s (~72 km/h): `½ × 0.024 × 20² ≈ 5 J`.
-- 5 J is nothing. Even delivered in 10 ms that's a ~500 W spike, which a flywheel can supply on its own between shots without the motor ever seeing it.
-- The energy was there — the ball just wasn't gripped hard enough or long enough to receive it. Swapping motors alone would not have fixed this.
 
 ### Improvements
 
 - **Concave (grooved) wheels.** Cut or print a groove matching the ball radius (~37 mm) so the wheel cradles the ball. Biggest single change: point contact becomes a wide wrapping patch, and the ball can't squirt sideways out of the nip.
-- **Brushless outrunners + ESCs on 4S/6S** if more headroom is still needed. This is what commercial ball machines and FRC shooters use — but do it *after* fixing the contact geometry, not instead of it.
 - **A guide throat before and after the wheels** so the ball always enters dead centre.
 
 ### How to check whether a fix worked
@@ -193,7 +182,6 @@ This is the one that actually stopped the project working, so it gets its own se
 **Why**
 
 - The enclosure and cable routing were never part of the mechanical design. Mechanics were designed first, electronics second, and by the time the boards existed no space had been reserved.
-- Also a safety issue: bare LiPo-level wiring next to moving parts and vibrating motors.
 
 **Improvements**
 
