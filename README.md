@@ -67,6 +67,8 @@ https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
 
 ### Motor Arm Enclosure Walls Too High
 
+[🎥Video🎥](https://youtube.com/shorts/bnbqNXNC1xM?si=NwhakDUqOzrnFfoD)
+
 **Problem**
 - Stepper motor would not seat into the motor arm enclosure
 - The walls on the back side of the enclosure were too high and blocked the motor from dropping in
