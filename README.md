@@ -156,6 +156,8 @@ https://github.com/user-attachments/assets/05e2c2c6-3fab-460d-b990-52fe02558209
 
 - The enclosure and cable routing were never part of the mechanical design. Mechanics were designed first, electronics second, and by the time the boards existed no space had been reserved.
 
+<img width="700" alt="IMG_4476" src="https://github.com/user-attachments/assets/63d7d0b5-97d5-41cc-9310-c09fb2e814cc" />
+
 **Improvements**
 
 - Reserve the electronics bay in CAD at the same time as the mechanics — define the box volume and mounting bosses before the frame is finalised.
