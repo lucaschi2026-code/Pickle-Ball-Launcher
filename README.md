@@ -92,6 +92,8 @@ https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
 
 # What Failed?
 
+[🎥Video Snippet🎥](https://www.youtube.com/watch?v=JF2lp_7c97A&t=4m33s)
+
 ### What happened
 
 - At low wheel speed the ball launched just fine.
