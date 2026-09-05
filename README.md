@@ -1,6 +1,5 @@
 # Pickle-Ball-Launcher
 A pickleball launcher with horizontal and vertical movement, varying distance, and varying spin. **Project was unsuccessful. Read more below.**
-<img width="766" height="397" alt="image" src="https://github.com/user-attachments/assets/29597639-6d22-41d2-9954-a90f8fa8ec71" />
 
 
 Check out my video series here: https://www.youtube.com/@lchi_builds
@@ -79,57 +78,7 @@ https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
   </tr>
 </table>
 
-# Improvements & Lessons Learned
-
-Things that didn't work, why, and what I'd change.
-
----
-
-## 1. Tilt axis wouldn't come back down
-
-**What happened**
-
-- Pinion turned the segment gear, but the mount only moved one way — tilt up and it stayed up, commanding down did nothing.
-- Superglueing the lower motor to the segment gear worked briefly, then motor vibration broke the joint.
-
-**Why**
-
-- The segment gear was never positively fastened to the mount — only glue and friction.
-- That makes a one-way drive: going up, the gear pushes the mount along. Coming down, the gear has to *pull* the mount, and the joint couldn't carry the weight of two motors in shear.
-- Superglue (cyanoacrylate) is brittle — decent in a straight pull, almost no fatigue life under vibration. Two spinning motors right next to the joint is the worst case for it.
-- The tilt assembly wasn't balanced on its pivot, so gravity and pivot friction were always working against the motor.
-
-**Improvements**
-
-- Print the segment gear as part of the tilt mount — no joint left to fail.
-- Balance the assembly (move mass or add a counterweight) so the centre of gravity sits on the pivot axis. The motor then only fights friction, not weight.
-
----
-
-## 2. Base vibrates and goes unstable at high speed
-
-**What happened**
-
-- Fine at low launcher speed. Spin the wheels up and the whole base shakes and walks.
-
-**Why**
-
-- The lazy susan is a printed roller thrust bearing — rollers in a flat channel. It holds weight fine, but nothing holds the top ring *centred*.
-- Too much clearance which allows the top ring to shift horizontally in all directions
-- Unbalanced spinning launcher wheels produce a force that grows with the *square* of speed — double the RPM, four times the shaking. More than enough to rattle the top ring through all that clearance.
-- Printed rollers aren't perfectly round or all the same diameter, so they skew in the channel and chatter instead of rolling.
-
-**Improvements**
-
-- Buy the bearing: a steel lazy-susan turntable bearing or thin-section slewing ring handles both up/down and sideways load properly. This is the real fix.
-- If keeping it printed: add the raised hub lip on the bottom ring that engages the top ring's 50 mm bore (already flagged in the design notes). This is the one change that kills the sideways drift.
-- Rubber feet or a weighted base so it can't walk across the floor.
-
----
-
-## Why the pickleball launcher failed
-
-This is the one that actually stopped the project working, so it gets its own section.
+# Why It Failed
 
 ### What happened
 
@@ -160,8 +109,51 @@ This is the one that actually stopped the project working, so it gets its own se
 - Under ~50 % means it's still slipping badly. A good wheel launcher lands above ~80 %.
 
 ---
+# Other Possible Improvements
+## 1. Tilt axis wouldn't come back down
 
-## 4. No ball feeder
+**What happened**
+
+- Spur gear/pinion turned the segment gear, but the mount only moved one way — tilt up and it stayed up, commanding down did nothing.
+- Superglueing the lower motor to the segment gear worked briefly, then motor vibration broke the joint.
+
+**Why**
+
+- The segment gear was never positively fastened to the mount — only glue and friction.
+- That makes a one-way drive: going up, the gear pushes the mount along. Coming down, the gear has to *pull* the mount, and the joint couldn't carry the weight of two motors in shear.
+- Superglue (cyanoacrylate) is brittle — decent in a straight pull, almost no fatigue life under vibration. Two spinning motors right next to the joint is the worst case for it.
+- The tilt assembly wasn't balanced on its pivot, so gravity and pivot friction were always working against the motor.
+
+**Improvements**
+
+- Print the segment gear as part of the tilt mount — no joint left to fail.
+- Balance the assembly (move mass or add a counterweight) so the centre of gravity sits on the pivot axis. The motor then only fights friction, not weight.
+<img width="766" height="397" alt="image" src="https://github.com/user-attachments/assets/29597639-6d22-41d2-9954-a90f8fa8ec71" />
+
+---
+
+## 2. Base vibrates and goes unstable at high speed
+
+**What happened**
+
+- Fine at low launcher speed. Spin the wheels up and the whole base shakes and walks.
+
+**Why**
+
+- The lazy susan is a printed roller thrust bearing — rollers in a flat channel. It holds weight fine, but nothing holds the top ring *centred*.
+- Too much clearance which allows the top ring to shift horizontally in all directions
+- Unbalanced spinning launcher wheels produce a force that grows with the *square* of speed — double the RPM, four times the shaking. More than enough to rattle the top ring through all that clearance.
+- Printed rollers aren't perfectly round or all the same diameter, so they skew in the channel and chatter instead of rolling.
+
+**Improvements**
+
+- Buy the bearing: a steel lazy-susan turntable bearing or thin-section slewing ring handles both up/down and sideways load properly. This is the real fix.
+- If keeping it printed: add the raised hub lip on the bottom ring that engages the top ring's 50 mm bore (already flagged in the design notes). This is the one change that kills the sideways drift.
+- Rubber feet or a weighted base so it can't walk across the floor.
+
+---
+
+## 3. No ball feeder
 
 - Not a failure — it just wasn't built this time. Balls were loaded by hand.
 
@@ -173,7 +165,7 @@ This is the one that actually stopped the project working, so it gets its own se
 
 ---
 
-## 5. Electronics had nowhere to live
+## 4. Electronics had nowhere to live
 
 **What happened**
 
