@@ -1,8 +1,9 @@
 # Pickle-Ball-Launcher
 A pickleball launcher with horizontal and vertical movement, varying distance, and varying spin. **Project was unsuccessful. Read more below.**
 
+[🎥Video series🎥](https://www.youtube.com/@lchi_builds)
 
-Check out my video series here: https://www.youtube.com/@lchi_builds
+[🎥Overview Video🎥](https://youtu.be/JF2lp_7c97A?si=ikQjlXj1Om9Uvilw)
 
 # Challenges
 ### Short Motor Shaft
