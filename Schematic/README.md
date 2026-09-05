@@ -5,8 +5,8 @@ Kicad image
 
 Star connection
 
-<img width="400" alt="IMG_4523" src="https://github.com/user-attachments/assets/d8b9f984-41d9-4416-9b39-eb4c8e18130f" />
+<img width="700" alt="IMG_4523" src="https://github.com/user-attachments/assets/d8b9f984-41d9-4416-9b39-eb4c8e18130f" />
 
 Physical circuit
 
-<img width="400" alt="IMG_4476" src="https://github.com/user-attachments/assets/63d7d0b5-97d5-41cc-9310-c09fb2e814cc" />
+<img width="700" alt="IMG_4476" src="https://github.com/user-attachments/assets/63d7d0b5-97d5-41cc-9310-c09fb2e814cc" />
