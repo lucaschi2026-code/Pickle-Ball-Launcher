@@ -1,4 +1,4 @@
-Kicad schematic was used as a template for physical wiring. GND lines in Kicad are daisy chained. Physically, they are wired as a star and meeting at a common point.
+Kicad schematic was used as a template for physical wiring. GND lines in Kicad are daisy chained. Physically, they are wired as a star and meet at a common point.
 
 Kicad Schematic
 
