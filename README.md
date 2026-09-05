@@ -77,7 +77,7 @@ https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
   </tr>
 </table>
 
-# Why It Failed
+# What Failed?
 
 ### What happened
 
