@@ -114,6 +114,8 @@ https://github.com/user-attachments/assets/05e2c2c6-3fab-460d-b990-52fe02558209
 # Other Possible Improvements
 ## 1. Tilt axis wouldn't come back down
 
+[🎥Video explanation🎥](https://www.youtube.com/shorts/tR7sy3MjvJQ)
+
 **What happened**
 
 - Spur gear/pinion turned the segment gear, but the mount only moved one way — tilt up and it stayed up, commanding down did nothing.
