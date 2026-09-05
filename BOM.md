@@ -18,7 +18,8 @@
 | 1 | Hardware | M8 x 50mm Hex Bolt | Partially threaded |
 | 1 | Hardware | M8 Nut | |
 | 6 | Hardware | M5 x 25mm Hex Bolt | |
-| 4 | Hardware | M4 x 12mm Machine Screw | Slotted head |
+| 4 | Hardware | M4 x 12mm Machine Screw + nuts | Slotted head |
+| 2 | Hardware | M3 x 5mm Screw | |
 | 2 | Mechanical | [Scooter Wheel](https://www.amazon.ca/dp/B07Y9JCW16/ref=sspa_dk_detail_1?pd_rd_i=B07Y9JCW16&pd_rd_w=3nBGT&content-id=amzn1.sym.74d8946d-6fd5-4629-bffd-b0df65e80145&pf_rd_p=74d8946d-6fd5-4629-bffd-b0df65e80145&pf_rd_r=FBB92NC7W6T7NM8HDSV0&pd_rd_wg=urdoH&pd_rd_r=8fa923a0-7dda-4dd6-896d-e748f35b101a&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1) | |
 | 4 | Mechanical | 608 Bearing | |
 
