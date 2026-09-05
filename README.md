@@ -3,7 +3,6 @@ A pickleball launcher with horizontal and vertical movement, varying distance, a
 
 
 Check out my video series here: https://www.youtube.com/@lchi_builds
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/206a5911-c2c3-4324-8ca5-0bb269bcc6f6" />
 
 # Challenges
 ### Short Motor Shaft
@@ -94,12 +93,15 @@ https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
 ### Why it failed
 
 - **Tiny contact patch.** Scooter tread is narrow and rounded (~24–30 mm wide). A pickleball is a 74 mm sphere. Round pressed on round is close to a single *point*, and friction force depends on how much surface is touching.
+
+https://github.com/user-attachments/assets/05e2c2c6-3fab-460d-b990-52fe02558209
+
 - **A pickleball won't squash — this is the core of it.** A tennis ball flattens and wraps around the wheel, giving a big patch and long contact; that's why narrow wheels work in tennis machines. A pickleball is hard, hollow, perforated plastic. Press harder and you just crack it. All the give has to come from the wheel, and scooter wheels have almost none.
 - **Why more speed made it worse:** a faster launch needs more force over less time. The friction *needed* goes up, the friction *available* stays the same, so more of the wheel speed is lost to slip.
 
 ### Improvements
 
-- **Concave (grooved) wheels.** Cut or print a groove matching the ball radius (~37 mm) so the wheel cradles the ball. Biggest single change: point contact becomes a wide wrapping patch, and the ball can't squirt sideways out of the nip.
+- **Concave (grooved) wheels.** Purchase specific concave wheels so the wheel cradles the ball. Biggest single change: point contact becomes a wide wrapping patch, and the ball can't slip sideways.
 - **A guide throat before and after the wheels** so the ball always enters dead centre.
 
 ### How to check whether a fix worked
@@ -132,28 +134,7 @@ https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
 
 ---
 
-## 2. Base vibrates and goes unstable at high speed
-
-**What happened**
-
-- Fine at low launcher speed. Spin the wheels up and the whole base shakes and walks.
-
-**Why**
-
-- The lazy susan is a printed roller thrust bearing — rollers in a flat channel. It holds weight fine, but nothing holds the top ring *centred*.
-- Too much clearance which allows the top ring to shift horizontally in all directions
-- Unbalanced spinning launcher wheels produce a force that grows with the *square* of speed — double the RPM, four times the shaking. More than enough to rattle the top ring through all that clearance.
-- Printed rollers aren't perfectly round or all the same diameter, so they skew in the channel and chatter instead of rolling.
-
-**Improvements**
-
-- Buy the bearing: a steel lazy-susan turntable bearing or thin-section slewing ring handles both up/down and sideways load properly. This is the real fix.
-- If keeping it printed: add the raised hub lip on the bottom ring that engages the top ring's 50 mm bore (already flagged in the design notes). This is the one change that kills the sideways drift.
-- Rubber feet or a weighted base so it can't walk across the floor.
-
----
-
-## 3. No ball feeder
+## 2. No ball feeder
 
 - Not a failure — it just wasn't built this time. Balls were loaded by hand.
 
@@ -165,7 +146,7 @@ https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
 
 ---
 
-## 4. Electronics had nowhere to live
+## 3. Electronics had nowhere to live
 
 **What happened**
 
