@@ -105,11 +105,11 @@ https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
 
 ### Why it failed
 
-- **Tiny contact patch.** Scooter tread is narrow and rounded (~24–30 mm wide). A pickleball is a 74 mm sphere. Round pressed on round is close to a single *point*, and friction force depends on how much surface is touching.
+- **Tiny contact patch.** Scooter tread is narrow and rounded. A pickleball is a 74 mm sphere. Round pressed on round is close to a single *point*, and friction force depends on how much surface is touching. This meant every launch had to be perfectly aligned with the equator of the pickleball. Because of human error and 2 individual wheels that vibrate randomly, this was nearly impossible.
 
 https://github.com/user-attachments/assets/05e2c2c6-3fab-460d-b990-52fe02558209
 
-- **A pickleball won't squash — this is the core of it.** A tennis ball flattens and wraps around the wheel, giving a big patch and long contact; that's why narrow wheels work in tennis machines. A pickleball is hard, hollow, perforated plastic. Press harder and you just crack it. All the give has to come from the wheel, and scooter wheels have almost none.
+- **A pickleball won't squash — this is the core of it.** A tennis ball flattens and wraps around the wheel, giving a big patch and long contact; that's why narrow wheels work in tennis machines. A pickleball is hard, hollow, and smoother. Pressing too hard with the narrow scooter wheels probably caused the pickleball to slide laterally instead of being compressed at the equator.
 - **Why more speed made it worse:** a faster launch needs more force over less time. The friction *needed* goes up, the friction *available* stays the same, so more of the wheel speed is lost to slip.
 
 ### Improvements
@@ -139,11 +139,10 @@ https://github.com/user-attachments/assets/05e2c2c6-3fab-460d-b990-52fe02558209
 - The segment gear was never positively fastened to the mount — only glue and friction.
 - That makes a one-way drive: going up, the gear pushes the mount along. Coming down, the gear has to *pull* the mount, and the joint couldn't carry the weight of two motors in shear.
 - Superglue (cyanoacrylate) is brittle — decent in a straight pull, almost no fatigue life under vibration. Two spinning motors right next to the joint is the worst case for it.
-- The tilt assembly wasn't balanced on its pivot, so gravity and pivot friction were always working against the motor.
 
 **Improvements**
 
-- Print the segment gear as part of the tilt mount — no joint left to fail.
+- Connect the segment gear to a component on the motor mount without glue (see img below).
 - Balance the assembly (move mass or add a counterweight) so the centre of gravity sits on the pivot axis. The motor then only fights friction, not weight.
 <img width="766" height="397" alt="image" src="https://github.com/user-attachments/assets/29597639-6d22-41d2-9954-a90f8fa8ec71" />
 
@@ -156,7 +155,6 @@ https://github.com/user-attachments/assets/05e2c2c6-3fab-460d-b990-52fe02558209
 **For a future version**
 
 - Gravity hopper feeding a rotating disc **escapement** (a slotted wheel that lets one ball through per turn) or a servo gate.
-- A delay between shots so the wheels can spin back up — firing early gives inconsistent range.
 - Optional RPM sensor so it fires when the wheels are actually ready, instead of on a fixed timer.
 
 ---
