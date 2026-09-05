@@ -111,7 +111,7 @@ https://github.com/user-attachments/assets/82309e48-c833-469f-9269-4ec8329cf462
 
 https://github.com/user-attachments/assets/05e2c2c6-3fab-460d-b990-52fe02558209
 
-- **A pickleball won't squash — this is the core of it.** A tennis ball flattens and wraps around the wheel, giving a big patch and long contact; that's why narrow wheels work in tennis machines. A pickleball is hard, hollow, and smoother. Pressing too hard with the narrow scooter wheels probably caused the pickleball to slide laterally instead of being compressed at the equator.
+- **A pickleball won't compress easy.** A tennis ball flattens and wraps around the wheel, giving a big patch and long contact; that's why narrow wheels work in tennis machines. A pickleball is hard, hollow, and smoother. Pressing too hard with the narrow scooter wheels probably caused the pickleball to slide laterally instead of being compressed at the equator.
 - **Why more speed made it worse:** a faster launch needs more force over less time. The friction *needed* goes up, the friction *available* stays the same, so more of the wheel speed is lost to slip.
 
 ### Improvements
