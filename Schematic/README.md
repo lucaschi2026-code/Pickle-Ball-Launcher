@@ -2,7 +2,7 @@ Kicad schematic was used as a template for physical wiring. GND lines in Kicad a
 
 Kicad Schematic
 
-
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/206a5911-c2c3-4324-8ca5-0bb269bcc6f6" />
 
 GND Star
 
