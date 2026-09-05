@@ -7,13 +7,13 @@ A pickleball launcher with horizontal and vertical movement, varying distance, a
 
 ## Features
 
-- **Wi-Fi control, no app needed** — the ESP32 makes its own hotspot ("RoverControl") and serves a phone-friendly web page with a d-pad for aiming.
-- **Pan and tilt aiming** — two stepper motors (precise motors that move in fixed steps) swing the launcher left/right and up/down.
-- **Worm drive on pan (25:1)** — a screw-and-gear pair that turns slowly with lots of force and holds position when powered off.
-- **Segment gear on tilt (9:1)** — only the slice of gear teeth that's actually used, to save space and print time.
-- **Two spinning launch wheels** — 775 brushed DC motors on BTS7960 H-bridges (driver boards that set speed and direction), so wheel speeds can differ to add spin.
-- **3D printed throughout** — including a custom roller-bearing turntable, gears, and motor mounts. All STEP/STL files included.
-- **Fully documented build** — schematic (KiCad), BOM with links, firmware source, and an Improvements section listing what broke and why.
+- **Wi-Fi control, no app needed** — the ESP32 makes its own hotspot ("RoverControl") and serves a phone-friendly web page with a d-pad for aiming
+- **Pan and tilt aiming** — two stepper motors (precise motors that move in fixed steps) swing the launcher left/right and up/down
+- **Worm drive on pan (25:1)** — a worm + helical gear pair that turns slowly with lots of force and holds position when powered off
+- **Segment gear on tilt (9:1)** — only the slice of gear teeth to tilt motor mount up and down
+- **Two spinning launch wheels** — 775 brushed DC motors on BTS7960 H-bridges (driver boards that set speed and direction), so wheel speeds can differ to add spin
+- **3D printed throughout** — including a custom roller-bearing turntable, gears, and motor mounts. All STEP files included
+- **Fully documented build** — schematic (KiCad), BOM with links, firmware source, and an Improvements section listing what broke and why
 
 # Challenges
 ### Short Motor Shaft
