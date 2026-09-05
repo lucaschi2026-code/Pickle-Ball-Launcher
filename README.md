@@ -31,7 +31,7 @@ A pickleball launcher with horizontal and vertical movement, varying distance, a
 
 ### Segment gear teeth not concentric with the pivot axis
 
-Video explanation: [YT short](https://youtube.com/shorts/Wz2A-TTkKP4?si=VPnpqFrX6oq3ApiZ)
+[🎥Video explanation🎥](https://youtube.com/shorts/Wz2A-TTkKP4?si=VPnpqFrX6oq3ApiZ)
 
 **Problem**
 
